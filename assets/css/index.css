@@ -1,0 +1,32 @@
+#header{
+    font-size: 72px;
+    background: -webkit-linear-gradient(left, #f35753 , #b24c82);
+    background: -o-linear-gradient(right, #f35753, #b24c82);
+    background: -moz-linear-gradient(right, #f35753, #b24c82);
+    background: linear-gradient(to right, #f35753 , #b24c82); 
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#boton {
+    background: rgb(243,87,83);
+background: -moz-linear-gradient(90deg, #9f2a7a 25%, #234293 75%);
+background: -webkit-linear-gradient(90deg, #9f2a7a 25%, #234293 75%);
+background: linear-gradient(90deg, #9f2a7a 25%, #234293 75%);
+}
+
+.titulo {
+    color: #5747ca
+}
+
+#cajonMensaje {
+    font-size: 72px;
+    background: -webkit-linear-gradient(left, #f35753 , #b24c82);
+    background: -o-linear-gradient(right, #f35753, #b24c82);
+    background: -moz-linear-gradient(right, #f35753, #b24c82);
+    background: linear-gradient(to right, #f35753 , #b24c82); 
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
